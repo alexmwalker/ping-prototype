@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 119 108.9" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#fff;}.cls-1,.cls-2{fill-rule:evenodd;}.cls-2,.cls-3{fill:none;}.cls-2{stroke:#434351;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+  </defs>
+  <title>icon-nut</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="bolt">
+      <path class="cls-1" d="M88.1,83.5,101,50,76.8,21.9,39.7,27.2,26.8,60.7,51.1,88.9ZM49.9,55.4a14,14,0,1,1,14,14A14,14,0,0,1,49.9,55.4Z"/>
+      <path class="cls-2" d="M81.3,87.9,97.2,55.5,75.6,25.4,38,27.7,22.1,60.1,43.7,90.2ZM45.7,56.7A14.2,14.2,0,0,1,60.9,43.8,13.9,13.9,0,0,1,73.7,59,14.2,14.2,0,0,1,58.4,71.8,13.9,13.9,0,0,1,45.7,56.7Z"/>
+      <rect class="cls-3" width="119" height="108.92"/>
+      <rect y="0.1" width="119.1" height="108.8" style="fill: none;"/>
+    </g>
+  </g>
+  <rect y="-0.2" width="118.9" height="109.1" style="fill: none;"/>
+</svg>
