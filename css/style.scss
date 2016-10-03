@@ -91,6 +91,9 @@ div {
     border-radius: 10px;
     -webkit-filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.15));
     filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.15));
+    li{
+        font-size:.8em
+    }
 }
 
 .bubble:after {
@@ -204,6 +207,7 @@ div {
     //outline: 1px #ccc solid;
     h3{
         color: #444;
+        font-family: 'Source Sans Pro', sans-serif;
     }
 }
 
@@ -429,6 +433,9 @@ img.icon {
     text-align: center;
     padding: .5em 0 .5em 0;
     margin-bottom: .5em;
+    h4{
+        font-family: 'Source Sans Pro', sans-serif;
+    }
     img {
         margin: 0em 35% 0 35%!important;
         width: 30%;
