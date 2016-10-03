@@ -424,6 +424,7 @@ img.icon {
 .keyline {
   border: 1px #ddf solid;
   padding: 3em 0 6em 0;
-  border-radius: 10px; }
+  border-radius: 10px;
+  background: #fff; }
 
 /*# sourceMappingURL=style.css.map */
