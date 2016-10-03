@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 119 108.9" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#fff;}.cls-1,.cls-2{fill-rule:evenodd;}.cls-2,.cls-3{fill:none;}.cls-2{stroke:#434351;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+  </defs>
+  <title>icon-woo</title>
+  <rect x="15.3" y="18.2" width="61.4" height="61.4" style="stroke-width: 2.99999; fill: rgb(255, 255, 255);" transform="matrix(0.62377, 0.78161, -0.78161, 0.62377, 70.17331, -12.57157)"/>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="woo">
+      <rect class="cls-3" width="119" height="108.92"/>
+    </g>
+  </g>
+  <rect x="14.8" y="17.6" width="59.5" height="59.5" style="fill: none; stroke: rgb(67, 67, 81); stroke-width: 1.99999;" transform="matrix(0.70711, 0.70711, -0.70711, 0.70711, 63.03242, -10.43972)"/>
+  <path d="M 45.1 42.1 L 76.9 42.7" style="fill: none; stroke: rgb(67, 67, 81); stroke-width: 2;"/>
+  <path d="M 40.6 49.7 L 80 50.2" style="fill: none; stroke: rgb(67, 67, 81); stroke-width: 2;"/>
+  <path d="M 40.6 57.9 L 80 58.5" style="fill: none; stroke: rgb(67, 67, 81); stroke-width: 2;"/>
+  <path d="M 44.4 66.4 L 76.2 67" style="fill: none; stroke: rgb(67, 67, 81); stroke-width: 2;"/>
+  <path d="M 9.9 63.6 L 61.1 12.5 L 102.9 54.7 L 112.4 45.4" style="fill: none; stroke: rgb(67, 67, 81); stroke-width: 2;"/>
+</svg>
