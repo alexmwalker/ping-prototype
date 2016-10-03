@@ -189,74 +189,75 @@
   /* line 208, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .story h3 {
     color: #444;
-    font-family: 'Source Sans Pro', sans-serif; }
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.25em; }
 
-/* line 214, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 215, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list-bullets {
   list-style: none; }
 
-/* line 218, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 219, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list-bullets li {
   position: absolute;
   font-size: 3em;
   height: 2em;
   width: 100%; }
-  /* line 223, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 224, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .feature-list-bullets li svg {
     width: 100px;
     height: 100px;
     position: absolute;
     top: -51px; }
 
-/* line 231, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 232, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 img.icon {
   width: 2em; }
 
-/* line 235, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 236, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list-bullets li:nth-of-type(1) {
   top: 55px; }
-  /* line 237, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 238, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .feature-list-bullets li:nth-of-type(1) .joiner {
     width: 100px;
     right: -100px; }
-    /* line 240, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+    /* line 241, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
     .feature-list-bullets li:nth-of-type(1) .joiner svg {
       right: -88px; }
 
-/* line 246, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 247, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list-bullets li:nth-of-type(2) {
   top: 200px; }
-  /* line 248, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 249, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .feature-list-bullets li:nth-of-type(2) .joiner {
     width: 100px;
     left: -100px; }
-    /* line 251, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+    /* line 252, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
     .feature-list-bullets li:nth-of-type(2) .joiner svg {
       left: -84px; }
 
-/* line 257, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 258, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list-bullets li:nth-of-type(3) {
   top: 385px; }
-  /* line 259, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 260, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .feature-list-bullets li:nth-of-type(3) .joiner {
     width: 100px;
     right: -100px; }
-    /* line 262, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+    /* line 263, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
     .feature-list-bullets li:nth-of-type(3) .joiner svg {
       right: -88px; }
 
-/* line 268, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 269, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list-bullets li:nth-of-type(4) {
   top: 700px; }
-  /* line 270, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 271, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .feature-list-bullets li:nth-of-type(4) .joiner {
     width: 100px;
     left: -100px; }
-    /* line 273, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+    /* line 274, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
     .feature-list-bullets li:nth-of-type(4) .joiner svg {
       left: -84px; }
 
-/* line 279, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 280, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .pullout {
   background: #fafcfc;
   border: 3px solid #444;
@@ -266,34 +267,34 @@ img.icon {
   width: 250px;
   border-radius: 8px;
   padding: 2px 4px; }
-  /* line 288, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 289, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .pullout p {
     font-size: 12px; }
 
-/* line 293, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 294, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .pullleft {
   left: -320px; }
 
-/* line 297, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 298, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .pullright {
   right: -250px; }
 
-/* line 301, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 302, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list:nth-of-type(2) {
   top: 900px;
   right: 50px; }
 
-/* line 306, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 307, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list:nth-of-type(3) {
   top: 1385px;
   right: 50px; }
 
-/* line 311, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 312, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .feature-list:nth-of-type(4) {
   top: 1700px;
   right: 50px; }
 
-/* line 316, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 317, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .joiner {
   display: block;
   content: "";
@@ -302,29 +303,29 @@ img.icon {
   top: 46px;
   background: #888; }
 
-/* line 327, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 328, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .radar {
   fill: none;
   stroke: #ff7805;
   stroke-width: 4;
   animation: ping 10s infinite; }
 
-/* line 334, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 335, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .core {
   fill: #ff7805;
   stroke: #ff7805;
   stroke-width: 4;
   animation: throb 10s infinite; }
 
-/* line 341, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 342, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .radar:nth-of-type(1) {
   animation-delay: 300ms; }
 
-/* line 345, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 346, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .radar:nth-of-type(2) {
   animation-delay: 200ms; }
 
-/* line 349, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 350, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .radar:nth-of-type(3) {
   animation-delay: 100ms; }
 
@@ -361,14 +362,14 @@ img.icon {
     opacity: 1; } }
 
 /* ------------SITEFRAME---------------------- */
-/* line 404, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 405, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .siteframe {
   border: 1px solid grey;
   background-color: #ECECFB;
   position: relative;
   padding: 2px 2px 20px 2px; }
 
-/* line 411, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 412, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .siteframe .icon {
   position: absolute;
   bottom: -2em;
@@ -377,50 +378,50 @@ img.icon {
   height: 2em; }
 
 /*  #########  TEXT #########  */
-/* line 422, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 423, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .title {
   margin: 1em 0; }
 
-/* line 426, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 427, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .spaceout {
   margin-top: 2em;
   margin-bottom: 2em; }
 
-/* line 431, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 432, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .else {
   background-color: #ECECFB;
   text-align: center;
   padding: 0.5em 0 0.5em 0;
   margin-bottom: .5em; }
-  /* line 436, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 437, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .else h4 {
     font-family: 'Source Sans Pro', sans-serif; }
-  /* line 439, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 440, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .else img {
     margin: 0em 35% 0 35% !important;
     width: 30%; }
 
-/* line 445, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 446, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .six-things {
   background-color: #ECECFB;
   margin-bottom: 2em; }
-  /* line 448, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+  /* line 449, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
   .six-things img.svg {
     margin: 0em 25% 0 25%;
     width: 50%;
     padding: 1em 0; }
 
 /*  ######### LISTS  #########  */
-/* line 458, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 459, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .attributes {
   font-size: x-small;
   color: #999; }
 
-/* line 463, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 464, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .section.section-opaque-dark {
   background-color: transparent; }
 
-/* line 467, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
+/* line 468, /Users/alexmwalker/Documents/Articles-2016/Pingendo/css/style.scss */
 .keyline {
   border: 1px #ddf solid;
   padding: 3em 0 6em 0;
